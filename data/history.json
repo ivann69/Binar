@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "menang": "10",
+        "kalah": "5",
+        "seri": "2",
+        "score": "10141"
+    },
+    {
+        "id": 2,
+        "menang": "12",
+        "kalah": "3",
+        "seri": "5",
+        "score": "12356"
+    },
+    {
+        "id": 3,
+        "menang": "4",
+        "kalah": "15",
+        "seri": "5",
+        "score": "9231"
+    },
+    {
+        "id": 4,
+        "menang": "17",
+        "kalah": "7",
+        "seri": "5",
+        "score": "15476"
+    },
+    {
+        "id": 5,
+        "menang": "8",
+        "kalah": "0",
+        "seri": "3",
+        "score": "11089"
+    }
+]

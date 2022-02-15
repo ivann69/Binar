@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "ivan",
+        "last_name": "prayogo",
+        "gender" : "male",
+        "birthday": "1996-03-03",
+        "email": "ivan@gmail.com"
+    },
+    {
+        "id": 2,
+        "first_name": "peter",
+        "last_name": "parker",
+        "gender" : "male",
+        "birthday": "1999-08-17",
+        "email": "labalaba31@gmail.com"
+    },
+    {
+        "id": 3,
+        "first_name": "bruce",
+        "last_name": "wayne",
+        "gender" : "male",
+        "birthday": "1992-08-17",
+        "email": "hitamgelap51@gmail.com"
+    },
+    {
+        "id": 4,
+        "first_name": "clark",
+        "last_name": "kent",
+        "gender" : "male",
+        "birthday": "1982-01-18",
+        "email": "flyaway420@gmail.com"
+    },
+    {
+        "id": 5,
+        "first_name": "diana",
+        "last_name": "prince",
+        "gender" : "female",
+        "birthday": "1987-02-22",
+        "email": "wanitakuat77@gmail.com"
+    }
+]

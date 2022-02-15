@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>editform</title>
+  </head>
+  <body>
+    <h2>edit dulu~</h2>
+    <form action="/history/<%= data.id %>/edit" method="POST">
+      menang: <br />
+      <input type="text" , name="menang" value="<%=data.menang%>" /><br />
+      kalah: <br />
+      <input type="text" , name="kalah" value="<%=data.kalah%>" /><br />
+      seri:<br />
+      <input type="text" , name="seri" value="<%=data.seri%>" /><br />
+      <br />
+      score:<br />
+      <input type="text" , name="score" value="<%=data.score%>" /><br />
+      <br />
+      <input type="submit" /><br />
+    </form>
+  </body>
+</html>
